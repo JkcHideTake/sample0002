@@ -1,0 +1,7 @@
+baseurl = "http://yourSiteHere/"
+
+languageCode = "en-us"
+
+title = "My New Hugo Site"
+
+theme = "html5"
