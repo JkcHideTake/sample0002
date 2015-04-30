@@ -14,8 +14,7 @@ deployment:
   master:
     branch: master
     commands:
-      -   cd Help
-      -   hugo
+      -   hugo -s Help
 
 test:
   override:
